@@ -1,0 +1,3 @@
+[submodule "specs/highlevel-api-docs"]
+	path = specs/highlevel-api-docs
+	url = https://github.com/GoHighLevel/highlevel-api-docs.git
